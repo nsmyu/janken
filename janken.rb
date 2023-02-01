@@ -48,7 +48,7 @@ loop {
   end
 
   if round1 == true
-    puts "\e[41mあなたの勝ち！おめでとう♪\e[0m"
+    puts "\e[41mあなたの勝ち！やったね♪\e[0m"
   else
     puts "\e[44m残念、あなたの負けです\e[0m"
   end
